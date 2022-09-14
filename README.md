@@ -1,4 +1,4 @@
-# analisis_datos_eph
+# Analisis_datos_eph
 Script de procesamiento, analisis y visualización de datos de la EPH
 
 
